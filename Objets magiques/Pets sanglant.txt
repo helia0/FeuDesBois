@@ -1,0 +1,2 @@
+Objet magique 2 : Pets sanglant
+	Pouvoir : Des que le joueur petes, l'ennemis est asphyxier 

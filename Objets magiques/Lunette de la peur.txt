@@ -1,0 +1,2 @@
+Objet magique 1 : Lunette De La peur
+	Pouvoir : Quand le joueur porte les lunettes, il se transforme en phobie de l'adverssaire
